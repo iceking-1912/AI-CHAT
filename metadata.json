@@ -1,0 +1,5 @@
+{
+  "name": "AI Conversation UI",
+  "description": "A sleek, modern user interface for an AI-powered conversational application, featuring collapsible sidebars, a central chat view, and detailed information panels, built with React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
